@@ -1,4 +1,4 @@
-# 📦 Folder Compressor with 7-Zip (Auto Split + Archive Naming)
+## 📦 Folder Compressor with 7-Zip (Auto Split + Archive Naming)
 
 This Python script compresses a folder (including subfolders) using **7-Zip**, automatically:
 
@@ -34,11 +34,11 @@ python compress_folder.py
 
 ## 🧰 Example Output
 If compressing a folder named MyVideos, the output will be saved to:
-    D:\Backup\
+  ```bash  D:\Backup\
       ├── MyVideos_2025-05-25_21-15.7z.001
       ├── MyVideos_2025-05-25_21-15.7z.002
       └── ...
-
+  ```
 ## 🔧 Configuration
   You can edit these in the script:
   ```bash
