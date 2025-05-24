@@ -34,7 +34,8 @@ python compress_folder.py
 
 ## 🧰 Example Output
 If compressing a folder named MyVideos, the output will be saved to:
-  ```bash  D:\Backup\
+  ```bash
+  D:\Backup\
       ├── MyVideos_2025-05-25_21-15.7z.001
       ├── MyVideos_2025-05-25_21-15.7z.002
       └── ...
